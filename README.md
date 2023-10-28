@@ -4,14 +4,21 @@
 # Como Usar
 
 1- Copia o código
-2- Abre o bloco de notas padrão
-3- Cola o codigo
-4- Edite como quiser (Ver abaixo)
-5- Clique em salvar como no bloco de notas, e antes de salvar mude o tipo arquivo de "Arquivo de texto" para "Todos os Arquivos" 
-6- Renomeie pro que preferir, mas no final coloque ".bat"
-7- Pronto, clique no comando e vai abrir uma tela, onde você coloca a senha pra pasta surgir, e se clicar novamente ele pergunta se você quer esconder a pasta novamente.
 
-#Codigo Completo
+2- Abre o bloco de notas padrão
+
+3- Cola o codigo
+
+4- Edite como quiser (Ver abaixo)
+
+5- Clique em salvar como no bloco de notas, e antes de salvar mude o tipo arquivo de "Arquivo de texto" para "Todos os Arquivos" 
+
+6- Renomeie pro que preferir, mas no final coloque ".bat"
+
+7- Pronto, clique no comando e vai abrir uma tela, onde você coloca a senha pra pasta surgir, e se clicar novamente ele pergunta se você quer 
+esconder a pasta novamente.
+
+# Codigo Completo
 
 cls
 @ECHO OFF
